@@ -1,8 +1,4 @@
-# Hamilton Cline
-
-## Websites
-
-- [My Website](https://hdraws.com)
+# [Hamilton Cline](https://hdraws.com)
 
 ## Projects
 
